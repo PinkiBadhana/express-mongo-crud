@@ -59,7 +59,7 @@ The project demonstrates how to connect a backend server with a NoSQL database a
 1️. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/PinkiBadhana/express-mongo-crud.git
 
 2️. Install dependencies:
 
