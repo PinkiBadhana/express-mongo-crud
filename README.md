@@ -56,12 +56,12 @@ The project demonstrates how to connect a backend server with a NoSQL database a
 
 ## 📦 Installation & Setup
 
-1️⃣ Clone the repository:
+1️. Clone the repository:
 
 ```bash
 git clone <your-repo-link>
 
-2️⃣ Install dependencies:
+2️. Install dependencies:
 
 npm install
 
